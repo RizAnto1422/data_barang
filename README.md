@@ -7,9 +7,10 @@ dan back-end framework  menggunakan  CI (codeigniter). Di dalam project ini saya
 
 cara menjalankan :
 - exstrak file tersebut
-- taruh file ke dalam htdocs XAMPP
+- taruh file ke dalam htdocs XAMPP (Nama File data_barang)
 - buka phpmyadmin import database rest_data.sql nya.
 - jalankan html yang berada di folder databarang
+- 
 
 *API : http://localhost/data_barang/rest-server/api/data_barang
 
